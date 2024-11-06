@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Replica Side &#8211; WWE Shop</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 17 Jan 2021 03:42:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/01/cropped-wwe-logo-transparent-background-32x32.png</url>
+	<title>Replica Side &#8211; WWE Shop</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Replica Side</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 16 Jan 2021 17:31:08 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Showing the single result Default sorting Sort by popularity Sort by average rating Sort by [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing the single result</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-107 status-publish first instock product_cat-uncategorized product_tag-championship product_tag-john-cena product_tag-plate product_tag-replica-side has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	<a href="./../../../product/john-cena-championship-replica-side-plate-box-set/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img width="300" height="300" src="./../../../wp-content/uploads/2021/01/07293-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="./../../../wp-content/uploads/2021/01/07293-300x300.jpg 300w, ./../../../wp-content/uploads/2021/01/07293-150x150.jpg 150w, ./../../../wp-content/uploads/2021/01/07293-768x768.jpg 768w, ./../../../wp-content/uploads/2021/01/07293-600x600.jpg 600w, ./../../../wp-content/uploads/2021/01/07293-100x100.jpg 100w, ./../../../wp-content/uploads/2021/01/07293.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">John Cena Championship Replica Side Plate Box Set</h2>
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>81.29</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>40.64</bdi></span></ins></span>
+</a><a href="./../../../product/john-cena-championship-replica-side-plate-box-set/index.html?add-to-cart=107" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="107" data-product_sku="" aria-label="Add &ldquo;John Cena Championship Replica Side Plate Box Set&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
